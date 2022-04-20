@@ -18,6 +18,7 @@ Bonus questions: no
 For the ros questions, the src folder has been uploaded.
 q_b1 is the solution to question B.1.
 pothole.ipynb is the solution to question B.2.
+For the remaining questions, the answers are there in the .pdf.
 
 
 Further details about each question can be found in the .pdf in this repository.
