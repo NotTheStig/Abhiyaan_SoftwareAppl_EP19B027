@@ -15,4 +15,5 @@ ID6040 intro to robotics (ongoing)
 
 Bonus questions: no
 
+For the ros questions, the src folder has been uploaded.
 Further details about each question can be found in the .pdf in this repository.
